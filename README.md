@@ -23,7 +23,7 @@ yum install perl-XML-Simple.noarch perl-Log-Log4perl
 ## Setup
 Download and save money :P.
 ```
-wget -c https://raw.githubusercontent.com/cainelli/zopenhsm/master/bin/zopenhsm.pl 
+wget -c https://raw.githubusercontent.com/hunganhprox/Zimbra-Network-Edition-HSM/main/bin/zopenhsm.pl
 mv zopenhsm.pl /usr/local/bin/
 chmod +x /usr/local/bin/zopenhsm.pl
 ```
